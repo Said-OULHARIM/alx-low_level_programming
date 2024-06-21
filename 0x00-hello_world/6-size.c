@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+* main - entry point and main fuction in C
+* Return: if no error return int 0
+ */
+
+
 int main(void)
 {
 	printf("Size of a char: %i byte(s)\n", sizeof(char));
