@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - print alphabet as lowercase without e and q
- * Return : 0 success
+ * main- print alphabet except e & q
+ * Return: Always 0 on completion
  */
+
 int main(void)
 {
 	char start;
