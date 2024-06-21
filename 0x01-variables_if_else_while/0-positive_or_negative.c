@@ -2,9 +2,8 @@
 #include <stdio.h>
 #include <time.h>
 /**
-* main - Entry point
-*
-* Return: return the printf, according to condition, ending code is 0 if no issue
+* main - Entry point*
+* Return: return the printf, to condition, ending code is 0 if no issue
 */
 int main(void)
 {
