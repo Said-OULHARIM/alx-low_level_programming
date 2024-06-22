@@ -11,11 +11,8 @@ int main(void)
 
 		for (integer = '0'; integer <= '9'; integer++)
 		putchar(digit);
-
 		for (integer = 'a'; integer <= 'f'; integer++)
 		putchar(digit);
-
 		putchar('\n');
-
 	return (0);
 }
