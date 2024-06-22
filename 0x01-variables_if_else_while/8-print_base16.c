@@ -2,7 +2,6 @@
 
 /**
 * main - Print the numbers in hexidecimal
-*
 * Return: 0 
 */
 int main(void)
