@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- *main - main point of entry
+ *print_alphabet - main point of entry
  *
  *Return: Always 0 (Success)
  */
