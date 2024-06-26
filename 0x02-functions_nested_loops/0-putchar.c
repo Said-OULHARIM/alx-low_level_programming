@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 #include <unistd.h>
 
 /*
@@ -8,6 +8,12 @@
  */
 int main (void)
 {
-	write(1,"_putchar",8);
+	char string[] = "_putchar";
+	int i;
+	for (i=0;i<8;i++)
+	{
+		_putchar(string[i]);
+	}
+	_putchar('\n');
 	return (0);
 }
