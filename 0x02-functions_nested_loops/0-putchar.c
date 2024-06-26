@@ -1,10 +1,10 @@
 #include "main.h"
 #include <unistd.h>
 
-/*
- *Main - main point of entry
- *Description: using write to print the "_putchar"
- *Return: 0 on success (always)
+/**
+ *main - main point of entry
+ *
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
